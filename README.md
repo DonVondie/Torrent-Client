@@ -11,6 +11,12 @@ BitTorrenting is a peer to peer file distribution system and you can read more i
 
 As of 12/11/2013 the client can only handle one torrent file at a time but that will be adjusted soon. There are also some bugs with implementing the protocol, most specifically peer-to-peer communication as well as tracker communication. There are also design flaws which will be plucked out soon.
 
+Main Goal
+==============
+
+The main goal of this project is to eventually turn it into a fully-functioning, bug-free and efficient open-source torrent client with a smooth user-friendly interface. At this point it is far from that but we have to start somewhere!
+
+
 How to Contribute
 ==============
 
